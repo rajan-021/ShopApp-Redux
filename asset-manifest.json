@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ShopApp-Redux/static/css/main.81db2fdc.css",
+    "main.js": "/ShopApp-Redux/static/js/main.8afb25d5.js",
+    "static/media/logo.png": "/ShopApp-Redux/static/media/logo.abe38ad162a16fe8cdda.png",
+    "index.html": "/ShopApp-Redux/index.html",
+    "main.81db2fdc.css.map": "/ShopApp-Redux/static/css/main.81db2fdc.css.map",
+    "main.8afb25d5.js.map": "/ShopApp-Redux/static/js/main.8afb25d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81db2fdc.css",
+    "static/js/main.8afb25d5.js"
+  ]
+}
